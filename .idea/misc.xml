@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/1. Android - COMP 1786 - CourseWork/CODE/Native App source code/app/src/main/res/layout/activity_expense.xml" value="0.1947463768115942" />
+        <entry key="..\:/1. Android - COMP 1786 - CourseWork/CODE/Native App source code/app/src/main/res/layout/activity_main.xml" value="0.30364583333333334" />
+        <entry key="..\:/1. Android - COMP 1786 - CourseWork/CODE/Native App source code/app/src/main/res/layout/dialog_add_expense.xml" value="0.33" />
+        <entry key="..\:/1. Android - COMP 1786 - CourseWork/CODE/Native App source code/app/src/main/res/layout/dialog_add_trip.xml" value="0.30364583333333334" />
+        <entry key="..\:/1. Android - COMP 1786 - CourseWork/CODE/Native App source code/app/src/main/res/layout/dialog_update_expense.xml" value="0.30364583333333334" />
+        <entry key="..\:/1. Android - COMP 1786 - CourseWork/CODE/Native App source code/app/src/main/res/layout/row_expense.xml" value="0.30364583333333334" />
+        <entry key="..\:/1. Android - COMP 1786 - CourseWork/CODE/Native App source code/app/src/main/res/layout/row_trip.xml" value="0.30364583333333334" />
         <entry key="..\:/Users/trung/Documents/manage-trips-main/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.178" />
         <entry key="..\:/Users/trung/Documents/manage-trips-main/app/src/main/res/drawable-anydpi/ic_baseline_triptype.xml" value="0.178" />
         <entry key="..\:/Users/trung/Documents/manage-trips-main/app/src/main/res/drawable-v24/bg_spinner.xml" value="0.1895" />
